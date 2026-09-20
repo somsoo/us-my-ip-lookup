@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://us-my-ip-lookup.enjoy-onepage.com/sitemap.xml
